@@ -4,7 +4,7 @@
 <br>
 <h3 align="center">Full stack developer | Backend specialist | Building robust systems from server to client</h3>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="side Image" align="right" width="300" height="auto" />
 - 🔭 I’m currently working on **Enhancing my skills in cloud architecture with AWS**
 
 - 🌱 I’m currently learning **CI/CD pipelines and DevOps practices**
